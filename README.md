@@ -19,7 +19,7 @@ const pranay = {
             css: ["TailwindCSS", "ShadCN", "DaisyUI"]
         },
         backEnd: {
-            backendservice: [Appwrite]
+            backendservice: ["Appwrite"]
         },
       },
     architecture: ["Serverless Architecture", "Progressive frontend applications", "Single page applications"],
