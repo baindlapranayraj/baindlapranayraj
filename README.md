@@ -28,13 +28,16 @@ const pranay = {
     Aim: "I'm jumping into web3 tech for some open source contributions on GitHub and to help shape the future of the digital landscape!"
 };
 ```
-<div style="flex">
-    
+<div style="">
+    <h1>Things I Can Play ⚔ : </h1>
+    <div class="skills" style="flex">
+        
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,typescript,nextjs)](https://skillicons.dev)
 
 <img width="50" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
 <img width="50" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
 <img width="50" src="https://appwrite.io/assets/logomark/logo.svg"/>
+    </div>
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
