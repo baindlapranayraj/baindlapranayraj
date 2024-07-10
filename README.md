@@ -34,9 +34,9 @@ const pranay = {
         
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,typescript,nextjs)](https://skillicons.dev)
 
-<img width="50" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
-<img width="50" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
-<img width="50" src="https://appwrite.io/assets/logomark/logo.svg"/>
+<img width="40" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
+<img width="40" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
+<img width="40" src="https://appwrite.io/assets/logomark/logo.svg"/>
     </div>
 </div>
 
