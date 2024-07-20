@@ -3,7 +3,10 @@
 <p><em>1st year student in CMR Technical Campus<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/pranayraj069?label=Follow)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/pranayraj069)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranay-raj-%F0%9F%8E%96%EF%B8%8F-bb5054240/)
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -33,7 +36,6 @@ const pranay = {
     <div class="skills" style="flex">
         
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,typescript,nextjs)](https://skillicons.dev)
-
 <img width="45" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
 <img width="45" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
 <img width="45" src="https://appwrite.io/assets/logomark/logo.svg"/>
