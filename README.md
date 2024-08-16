@@ -35,7 +35,7 @@ const pranay = {
     <h1>Things I Can Play ⚔ : </h1>
     <div class="skills" style="flex">
         
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,typescript,nextjs,nodejs,express,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,typescript,nextjs,nodejs,express,mongodb,solidity)](https://skillicons.dev)
 <img width="45" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
 <img width="45" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
 <img width="45" src="https://appwrite.io/assets/logomark/logo.svg"/>
