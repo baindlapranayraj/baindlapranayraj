@@ -35,11 +35,11 @@ const pranay = {
     <h1>Things I Can Play ⚔ : </h1>
     <div class="skills" style="flex">
         
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,typescript,nodejs,express,mongodb,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,typescript,appwrite,nodejs,express,mongodb,rust,rocket,nextjs)](https://skillicons.dev)
 <img width="45" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
 <img width="45" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
-<img width="45" src="https://appwrite.io/assets/logomark/logo.svg"/>
 <img width="45" src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"/>
+<img width="45" src="https://www.anchor-lang.com/_next/image?url=%2Flogo.png&w=64&q=75"/>
 
     </div>
 </div>
