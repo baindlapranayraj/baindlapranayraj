@@ -4,7 +4,7 @@
 </em></p>
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/pranayraj069)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranay-raj-%F0%9F%8E%96%EF%B8%8F-bb5054240/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranay-raj-bb5054240/)
 
 
 
